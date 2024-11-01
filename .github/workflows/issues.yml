@@ -1,6 +1,4 @@
 name: Issues
-
-
 on:
   issues:
     types: [opened, closed, reopened]
