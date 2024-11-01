@@ -2,7 +2,6 @@ name: Issues
 on:
   issues:
     types: [opened, closed, reopened]
-
 jobs:
   issue-comment:
     runs-on: ubuntu-latest
